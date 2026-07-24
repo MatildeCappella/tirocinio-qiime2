@@ -1,0 +1,70 @@
+Sample,Species
+AGRI_1,None
+AGRI_2,None
+AGRI_B,"Poeciliidae;Gambusia;, Moronidae;Dicentrarchus;Dicentrarchus labrax, Leuciscidae;Acanthobrama;Acanthobrama persidis, Ictaluridae;Ameiurus;, Gobionidae;Pseudorasbora;"
+AME_1,Petromyzontidae;Lampetra;
+AME_2,"Leuciscidae;Leuciscus;, Leuciscidae;;, Leuciscidae;Squalius;, Leuciscidae;Alburnus;Alburnus alburnus"
+ARC_1,None
+BID_1,"Salmonidae;Salmo;, Leuciscidae;Leuciscus;, Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Poeciliidae;Gambusia;, Anguillidae;Anguilla;, Atherinidae;Atherina;Atherina boyeri, Istiophoridae;;"
+BID_2,"Leuciscidae;Leuciscus;, Leuciscidae;;, Leuciscidae;Alburnus;Alburnus alburnus, Moronidae;Dicentrarchus;Dicentrarchus labrax"
+BID_B,"Leuciscidae;Leuciscus;, Clariidae;Clarias;, Mugilidae;Mugil;Mugil cephalus, Leuciscidae;Squalius;, Blenniidae;Salaria;Salaria fluviatilis, Gobionidae;Pseudorasbora;Pseudorasbora parva, Mugilidae;Chelon;, Cyprinidae;Carassius;"
+BONA_1,"Leuciscidae;Leuciscus;, Leuciscidae;;, Leuciscidae;Squalius;, Leuciscidae;Alburnus;Alburnus alburnus, Poeciliidae;Gambusia;, Anguillidae;Anguilla;, Atherinidae;Atherina;Atherina boyeri"
+BONA_2,"Leuciscidae;Leuciscus;, Leuciscidae;;, Leuciscidae;Squalius;, Leuciscidae;Alburnus;Alburnus alburnus, Poeciliidae;Gambusia;, Ictaluridae;Ameiurus;"
+BONA_B,"Leuciscidae;Leuciscus;, Leuciscidae;;, Leuciscidae;Alburnus;Alburnus alburnus, Poeciliidae;Gambusia;"
+BUS_1,"Leuciscidae;Leuciscus;, Leuciscidae;;, Leuciscidae;Alburnus;Alburnus alburnus"
+BUS_B,"Leuciscidae;Leuciscus;, Leuciscidae;;, Leuciscidae;Alburnus;Alburnus alburnus"
+CAL_1,"Salmonidae;Salmo;, Leuciscidae;;, Leuciscidae;Rutilus;Rutilus rutilus, Salmonidae;Salmo;Salmo trutta, Leuciscidae;Squalius;, Cyprinidae;;, Leuciscidae;Alburnus;Alburnus alburnus, Petromyzontidae;Lampetra;, Leuciscidae;Phoxinus;"
+CAN_2,"Leuciscidae;Leuciscus;, Gobionidae;Pseudorasbora;Pseudorasbora parva, Poeciliidae;Gambusia;, Mugilidae;Chelon;, Ictaluridae;Ameiurus;"
+CAN_3,"Gobionidae;Pseudorasbora;Pseudorasbora parva, Poeciliidae;Gambusia;, Ictaluridae;Ameiurus;"
+COR_1,"Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Leuciscidae;Phoxinus;Phoxinus fayollarum"
+FIA_1,"Salmonidae;Salmo;, Cottidae;Cottus;, Poeciliidae;Gambusia;"
+FIA_2,"Salmonidae;Salmo;, Leuciscidae;;, Cottidae;Cottus;, Leuciscidae;Squalius;, Scyliorhinidae;Scyliorhinus;Scyliorhinus canicula"
+FIA_B,Salmonidae;Oncorhynchus;Oncorhynchus mykiss
+FIU_1,"Leuciscidae;Leuciscus;, Leuciscidae;;, Leuciscidae;Rutilus;Rutilus rutilus, Leuciscidae;Squalius;, Blenniidae;Salaria;Salaria fluviatilis, Cyprinidae;;, Leuciscidae;Alburnus;Alburnus alburnus, Poeciliidae;Gambusia;, Anguillidae;Anguilla;, Leuciscidae;Squalius;Squalius cephalus, Leuciscidae;Squalius;Squalius pyrenaicus"
+FIU_2,"Leuciscidae;;, Leuciscidae;Rutilus;Rutilus rutilus, Leuciscidae;Squalius;, Blenniidae;Salaria;Salaria fluviatilis, Cyprinidae;;, Anguillidae;Anguilla;"
+GIO_2,"Salmonidae;Salmo;, Salmonidae;Oncorhynchus;"
+GIO_B,"Leuciscidae;Leuciscus;, Leuciscidae;;, Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Salmonidae;Salvelinus;, Poeciliidae;Gambusia;, Siluridae;Silurus;, Moronidae;Dicentrarchus;Dicentrarchus labrax, Leuciscidae;Acanthobrama;Acanthobrama persidis, Ictaluridae;Ameiurus;"
+LAO_1,Moronidae;Dicentrarchus;Dicentrarchus labrax
+LAO_2,"Salmonidae;Salmo;, Leuciscidae;Leuciscus;, Leuciscidae;;, Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Leuciscidae;Rutilus;Rutilus rutilus, Cyprinidae;;, Leuciscidae;Alburnus;Alburnus alburnus, Gobionidae;Pseudorasbora;Pseudorasbora parva, Poeciliidae;Gambusia;, Anguillidae;Anguilla;, Cyprinidae;Carassius;, Atherinidae;Atherina;Atherina boyeri, Anguillidae;Anguilla;Anguilla anguilla, Gobiidae;Pomatoschistus;Pomatoschistus microps"
+LAO_B,"Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Cyprinidae;;, Poeciliidae;Gambusia;, Mugilidae;Chelon;"
+LESE_B,None
+MAG_1,None
+MAG_2,"Salmonidae;Salmo;, Leuciscidae;;, Salmonidae;Salmo;Salmo trutta, Leuciscidae;Alburnus;Alburnus alburnus"
+MAV_2,"Salmonidae;Salmo;, Leuciscidae;Leuciscus;, Leuciscidae;;, Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Salmonidae;Salmo;Salmo trutta, Leuciscidae;Squalius;, Cyprinidae;;, Leuciscidae;Alburnus;Alburnus alburnus, Poeciliidae;Gambusia;, Cyprinidae;Carassius;, Atherinidae;Atherina;Atherina boyeri, Leuciscidae;Phoxinus;, Anguillidae;Anguilla;Anguilla anguilla, Gobiidae;Pomatoschistus;, Gobiidae;Pomatoschistus;Pomatoschistus pictus, Pimelodidae;Rhamdia;Rhamdia cf. jequitinhonha NS 3056B"
+MAV_B,"Leuciscidae;Leuciscus;, Leuciscidae;;, Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Leuciscidae;Rutilus;Rutilus rutilus, Salmonidae;Salmo;Salmo trutta, Cyprinidae;;, Leuciscidae;Alburnus;Alburnus alburnus, Poeciliidae;Gambusia;, Mugilidae;Chelon;, Cyprinidae;Carassius;, Moronidae;Dicentrarchus;Dicentrarchus labrax, Leuciscidae;Acanthobrama;Acanthobrama persidis, Ictaluridae;Ameiurus;, Leuciscidae;Leuciscus;Leuciscus aspius, Gobionidae;Gobio;, Leuciscidae;Abramis;Abramis brama, Gobionidae;Pseudorasbora;"
+NERA_1,"Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Percidae;Perca;Perca fluviatilis, Istiophoridae;;, Engraulidae;Engraulis;Engraulis ringens, Scombridae;;, Gadidae;Micromesistius;Micromesistius poutassou, Clupeidae;Sardinella;Sardinella maderensis, Clupeidae;Sardinops;NA"
+NOC_1,"Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Clariidae;Clarias;, Mugilidae;Mugil;Mugil cephalus, Cyprinidae;;, Gobionidae;Pseudorasbora;Pseudorasbora parva, Poeciliidae;Gambusia;, Mugilidae;Chelon;, Cyprinidae;Carassius;, Tetraodontidae;Lagocephalus;Lagocephalus guentheri"
+NOC_2,"Leuciscidae;Leuciscus;, Leuciscidae;;, Clariidae;Clarias;, Mugilidae;Mugil;Mugil cephalus, Blenniidae;Salaria;Salaria fluviatilis, Cyprinidae;;, Leuciscidae;Alburnus;Alburnus alburnus, Gobionidae;Pseudorasbora;Pseudorasbora parva, Poeciliidae;Gambusia;, Mugilidae;Chelon;, Cyprinidae;Carassius;"
+NOC_B,"Leuciscidae;;, Leuciscidae;Alburnus;Alburnus alburnus, Tetraodontidae;Lagocephalus;Lagocephalus guentheri"
+P11E,"Salmonidae;Salmo;, Leuciscidae;Leuciscus;, Leuciscidae;;, Leuciscidae;Rutilus;Rutilus rutilus, Salmonidae;Salmo;Salmo trutta, Leuciscidae;Squalius;, Salmonidae;Salvelinus;, Cyprinidae;;, Poeciliidae;Gambusia;, Anguillidae;Anguilla;, Petromyzontidae;Lampetra;, Siluridae;Silurus;, Atherinidae;Atherina;Atherina boyeri, Leuciscidae;Phoxinus;, Gobiidae;Pomatoschistus;Pomatoschistus microps"
+P1F,None
+P3A,Moronidae;Dicentrarchus;Dicentrarchus labrax
+P3G,None
+P5B,Blenniidae;Salaria;Salaria fluviatilis
+P5C,None
+P7C,None
+P9D,"Leuciscidae;Leuciscus;, Siluridae;Silurus;, Moronidae;Dicentrarchus;Dicentrarchus labrax, Leuciscidae;Acanthobrama;Acanthobrama persidis, Gobionidae;Pseudorasbora;"
+RAB_1,"Salmonidae;Salmo;, Leuciscidae;Leuciscus;, Leuciscidae;;, Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Salmonidae;Salmo;Salmo trutta, Leuciscidae;Alburnus;Alburnus alburnus, Mugilidae;Chelon;"
+RAB_2,"Salmonidae;Salmo;, Leuciscidae;Leuciscus;, Leuciscidae;;, Salmonidae;Salmo;Salmo trutta, Leuciscidae;Squalius;, Siluridae;Silurus;, Tetraodontidae;Lagocephalus;Lagocephalus guentheri"
+RAB_B,"Leuciscidae;Leuciscus;, Leuciscidae;;, Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Leuciscidae;Squalius;, Leuciscidae;Alburnus;Alburnus alburnus, Siluridae;Silurus;, Moronidae;Dicentrarchus;Dicentrarchus labrax, Siluridae;Silurus;Silurus glanis"
+RACA_B,Leuciscidae;Leuciscus;
+RAGA_2,"Leuciscidae;;, Leuciscidae;Squalius;, Blenniidae;Salaria;Salaria fluviatilis"
+RAGA_B,"Leuciscidae;;, Leuciscidae;Alburnus;Alburnus alburnus"
+SANB_2,"Leuciscidae;Rutilus;Rutilus rutilus, Leuciscidae;Phoxinus;"
+SANG_2,None
+SEC_B,Gobionidae;Gobio;
+SOL_1,"Salmonidae;Salmo;, Leuciscidae;Leuciscus;, Leuciscidae;;, Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Salmonidae;Salmo;Salmo trutta, Salmonidae;Salvelinus;, Leuciscidae;Alburnus;Alburnus alburnus"
+SOL_2,"Salmonidae;Salmo;, Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Salmonidae;Salmo;Salmo trutta, Leuciscidae;Squalius;, Salmonidae;Salvelinus;, Anguillidae;Anguilla;, Anguillidae;Anguilla;Anguilla anguilla"
+SOL_B,"Leuciscidae;Leuciscus;, Ariidae;Ariopsis;Ariopsis felis"
+TAVO_1,"Salmonidae;Salmo;, Leuciscidae;;, Leuciscidae;Alburnus;Alburnus alburnus, Mugilidae;Chelon;, Moronidae;Dicentrarchus;Dicentrarchus labrax, Leuciscidae;Acanthobrama;Acanthobrama persidis, Ictaluridae;Ameiurus;"
+TAVO_2,"Salmonidae;Salmo;, Leuciscidae;Leuciscus;, Leuciscidae;;, Salmonidae;Salmo;Salmo trutta, Leuciscidae;Alburnus;Alburnus alburnus, Moronidae;Dicentrarchus;Dicentrarchus labrax"
+TAVO_B,"Leuciscidae;Leuciscus;, Leuciscidae;;, Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Leuciscidae;Alburnus;Alburnus alburnus, Poeciliidae;Gambusia;"
+TRO_1,"Salmonidae;Salmo;, Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Leuciscidae;Rutilus;Rutilus rutilus, Salmonidae;Salmo;Salmo trutta, Cyprinidae;;, Percidae;Perca;Perca fluviatilis, Istiophoridae;;, Pimelodidae;Rhamdia;Rhamdia cf. jequitinhonha NS 3056B"
+TRO_2,"Salmonidae;Salmo;, Leuciscidae;Rutilus;Rutilus rutilus, Salmonidae;Salmo;Salmo trutta, Moronidae;Dicentrarchus;Dicentrarchus labrax, Percidae;Perca;Perca fluviatilis"
+TRO_B,"Leuciscidae;Leuciscus;, Leuciscidae;;, Clariidae;Clarias;, Mugilidae;Mugil;Mugil cephalus, Leuciscidae;Squalius;, Blenniidae;Salaria;Salaria fluviatilis, Leuciscidae;Alburnus;Alburnus alburnus, Gobionidae;Pseudorasbora;Pseudorasbora parva, Mugilidae;Chelon;, Cyprinidae;Carassius;, Tetraodontidae;Lagocephalus;Lagocephalus guentheri, Ictaluridae;Ameiurus;"
+URI_2,"Salmonidae;Salmo;, Leuciscidae;Leuciscus;, Leuciscidae;;, Salmonidae;Oncorhynchus;Oncorhynchus mykiss, Leuciscidae;Alburnus;Alburnus alburnus, Poeciliidae;Gambusia;, Atherinidae;Atherina;Atherina boyeri, Salmonidae;Oncorhynchus;"
+URI_B,"Leuciscidae;;, Leuciscidae;Alburnus;Alburnus alburnus"
+V2G,None
+VAL_1,"Salmonidae;Salmo;, Cottidae;Cottus;, Salmonidae;Salmo;Salmo trutta, Salmonidae;Salvelinus;, Cyprinidae;;, Leuciscidae;Alburnus;Alburnus alburnus, Leuciscidae;Phoxinus;, Salmonidae;Oncorhynchus;"
+VAL_2,"Salmonidae;Salmo;, Leuciscidae;;, Cottidae;Cottus;, Salmonidae;Salmo;Salmo trutta, Salmonidae;Salvelinus;, Leuciscidae;Alburnus;Alburnus alburnus, Leuciscidae;Phoxinus;"
+VAL_B,"Leuciscidae;;, Leuciscidae;Alburnus;Alburnus alburnus, Ariidae;Ariopsis;Ariopsis felis"
